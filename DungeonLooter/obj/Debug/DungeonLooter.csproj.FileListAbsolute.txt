@@ -1,0 +1,14 @@
+C:\Workspace\src\GameApplication\DungeonLooter\bin\Debug\DungeonLooter.exe.config
+C:\Workspace\src\GameApplication\DungeonLooter\bin\Debug\DungeonLooter.exe
+C:\Workspace\src\GameApplication\DungeonLooter\bin\Debug\DungeonLooter.pdb
+C:\Workspace\src\GameApplication\DungeonLooter\obj\Debug\DungeonLooter.csproj.AssemblyReference.cache
+C:\Workspace\src\GameApplication\DungeonLooter\obj\Debug\DungeonLooter.csproj.CoreCompileInputs.cache
+C:\Workspace\src\GameApplication\DungeonLooter\obj\Debug\DungeonLooter.exe
+C:\Workspace\src\GameApplication\DungeonLooter\obj\Debug\DungeonLooter.pdb
+C:\Workspace\src\GameApplication\GraphicApplication\DungeonLooter\bin\Debug\DungeonLooter.exe.config
+C:\Workspace\src\GameApplication\GraphicApplication\DungeonLooter\bin\Debug\DungeonLooter.exe
+C:\Workspace\src\GameApplication\GraphicApplication\DungeonLooter\bin\Debug\DungeonLooter.pdb
+C:\Workspace\src\GameApplication\GraphicApplication\DungeonLooter\obj\Debug\DungeonLooter.csproj.AssemblyReference.cache
+C:\Workspace\src\GameApplication\GraphicApplication\DungeonLooter\obj\Debug\DungeonLooter.csproj.CoreCompileInputs.cache
+C:\Workspace\src\GameApplication\GraphicApplication\DungeonLooter\obj\Debug\DungeonLooter.exe
+C:\Workspace\src\GameApplication\GraphicApplication\DungeonLooter\obj\Debug\DungeonLooter.pdb
