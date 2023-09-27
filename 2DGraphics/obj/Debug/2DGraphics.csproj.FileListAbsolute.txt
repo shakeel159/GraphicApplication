@@ -1,0 +1,10 @@
+C:\Workspace\src\GameApplication\GraphicApplication\2DGraphics\bin\Debug\2DGraphics.exe.config
+C:\Workspace\src\GameApplication\GraphicApplication\2DGraphics\bin\Debug\2DGraphics.exe
+C:\Workspace\src\GameApplication\GraphicApplication\2DGraphics\bin\Debug\2DGraphics.pdb
+C:\Workspace\src\GameApplication\GraphicApplication\2DGraphics\obj\Debug\2DGraphics.csproj.AssemblyReference.cache
+C:\Workspace\src\GameApplication\GraphicApplication\2DGraphics\obj\Debug\_2DGraphics.Form1.resources
+C:\Workspace\src\GameApplication\GraphicApplication\2DGraphics\obj\Debug\_2DGraphics.Properties.Resources.resources
+C:\Workspace\src\GameApplication\GraphicApplication\2DGraphics\obj\Debug\2DGraphics.csproj.GenerateResource.cache
+C:\Workspace\src\GameApplication\GraphicApplication\2DGraphics\obj\Debug\2DGraphics.csproj.CoreCompileInputs.cache
+C:\Workspace\src\GameApplication\GraphicApplication\2DGraphics\obj\Debug\2DGraphics.exe
+C:\Workspace\src\GameApplication\GraphicApplication\2DGraphics\obj\Debug\2DGraphics.pdb
