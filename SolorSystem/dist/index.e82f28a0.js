@@ -845,7 +845,7 @@ window.addEventListener("resize", function() {
     renderer.setSize(width, height);
 });
 
-},{"three":"ktPTu","three/examples/jsm/controls/OrbitControls.js":"7mqRv","../img/Rings.jpg":"2N9qx","@parcel/transformer-js/src/esmodule-helpers.js":"4tlic","../img/2k_sun.jpg":"i2FBY","../img/2k_mercury.jpg":"lH3zY","../img/2k_venus.jpg":"a41Fv","../img/2k_mars.jpg":"2kaxl","../img/2k_jupiter.jpg":"NdlDJ","../img/2k_neptune.jpg":"ex9Jz","../img/2k_saturn.jpg":"e2tFB","../img/2k_earth_daymap.jpg":"5K8gp","../img/2k_uranus.jpg":"6o136","../img/2k_moon.jpg":"7to4M","../img/2k_saturn_ring.png":"7i3gs","../img/Star.jpg":"3KRZw"}],"ktPTu":[function(require,module,exports) {
+},{"three":"ktPTu","three/examples/jsm/controls/OrbitControls.js":"7mqRv","../img/Star.jpg":"3KRZw","../img/Rings.jpg":"2N9qx","../img/2k_sun.jpg":"i2FBY","../img/2k_mercury.jpg":"lH3zY","../img/2k_venus.jpg":"a41Fv","../img/2k_earth_daymap.jpg":"5K8gp","../img/2k_mars.jpg":"2kaxl","../img/2k_jupiter.jpg":"NdlDJ","../img/2k_neptune.jpg":"ex9Jz","../img/2k_saturn.jpg":"e2tFB","../img/2k_uranus.jpg":"6o136","../img/2k_moon.jpg":"7to4M","../img/2k_saturn_ring.png":"7i3gs","@parcel/transformer-js/src/esmodule-helpers.js":"4tlic"}],"ktPTu":[function(require,module,exports) {
 /**
  * @license
  * Copyright 2010-2023 Three.js Authors
@@ -31632,10 +31632,10 @@ class OrbitControls extends (0, _three.EventDispatcher) {
     }
 }
 
-},{"three":"ktPTu","@parcel/transformer-js/src/esmodule-helpers.js":"4tlic"}],"2N9qx":[function(require,module,exports) {
-module.exports = require("b360ef7dbc828b10").getBundleURL("2MSMO") + "Rings.a598d01d.jpg" + "?" + Date.now();
+},{"three":"ktPTu","@parcel/transformer-js/src/esmodule-helpers.js":"4tlic"}],"3KRZw":[function(require,module,exports) {
+module.exports = require("f587d332c2b29969").getBundleURL("2MSMO") + "Star.7e083d1a.jpg" + "?" + Date.now();
 
-},{"b360ef7dbc828b10":"hnJjX"}],"hnJjX":[function(require,module,exports) {
+},{"f587d332c2b29969":"hnJjX"}],"hnJjX":[function(require,module,exports) {
 "use strict";
 var bundleURL = {};
 function getBundleURLCached(id) {
@@ -31670,7 +31670,10 @@ exports.getBundleURL = getBundleURLCached;
 exports.getBaseURL = getBaseURL;
 exports.getOrigin = getOrigin;
 
-},{}],"i2FBY":[function(require,module,exports) {
+},{}],"2N9qx":[function(require,module,exports) {
+module.exports = require("b360ef7dbc828b10").getBundleURL("2MSMO") + "Rings.a598d01d.jpg" + "?" + Date.now();
+
+},{"b360ef7dbc828b10":"hnJjX"}],"i2FBY":[function(require,module,exports) {
 module.exports = require("8131138f012d1574").getBundleURL("2MSMO") + "2k_sun.71e09dcd.jpg" + "?" + Date.now();
 
 },{"8131138f012d1574":"hnJjX"}],"lH3zY":[function(require,module,exports) {
@@ -31679,7 +31682,10 @@ module.exports = require("cce49c16f9a2970").getBundleURL("2MSMO") + "2k_mercury.
 },{"cce49c16f9a2970":"hnJjX"}],"a41Fv":[function(require,module,exports) {
 module.exports = require("11eb22c79cda69dd").getBundleURL("2MSMO") + "2k_venus.18818a66.jpg" + "?" + Date.now();
 
-},{"11eb22c79cda69dd":"hnJjX"}],"2kaxl":[function(require,module,exports) {
+},{"11eb22c79cda69dd":"hnJjX"}],"5K8gp":[function(require,module,exports) {
+module.exports = require("a815f4a55c58afd3").getBundleURL("2MSMO") + "2k_earth_daymap.03905010.jpg" + "?" + Date.now();
+
+},{"a815f4a55c58afd3":"hnJjX"}],"2kaxl":[function(require,module,exports) {
 module.exports = require("c07d9a19fb1fe2b0").getBundleURL("2MSMO") + "2k_mars.ce1ee5bf.jpg" + "?" + Date.now();
 
 },{"c07d9a19fb1fe2b0":"hnJjX"}],"NdlDJ":[function(require,module,exports) {
@@ -31691,10 +31697,7 @@ module.exports = require("a1d7aff6c7fa5a3d").getBundleURL("2MSMO") + "2k_neptune
 },{"a1d7aff6c7fa5a3d":"hnJjX"}],"e2tFB":[function(require,module,exports) {
 module.exports = require("6c03eeb76e2d172e").getBundleURL("2MSMO") + "2k_saturn.d4530881.jpg" + "?" + Date.now();
 
-},{"6c03eeb76e2d172e":"hnJjX"}],"5K8gp":[function(require,module,exports) {
-module.exports = require("a815f4a55c58afd3").getBundleURL("2MSMO") + "2k_earth_daymap.03905010.jpg" + "?" + Date.now();
-
-},{"a815f4a55c58afd3":"hnJjX"}],"6o136":[function(require,module,exports) {
+},{"6c03eeb76e2d172e":"hnJjX"}],"6o136":[function(require,module,exports) {
 module.exports = require("ac43451f17f17721").getBundleURL("2MSMO") + "2k_uranus.834ca6f8.jpg" + "?" + Date.now();
 
 },{"ac43451f17f17721":"hnJjX"}],"7to4M":[function(require,module,exports) {
@@ -31703,9 +31706,6 @@ module.exports = require("446d027ab64f96ea").getBundleURL("2MSMO") + "2k_moon.32
 },{"446d027ab64f96ea":"hnJjX"}],"7i3gs":[function(require,module,exports) {
 module.exports = require("851b379089488503").getBundleURL("2MSMO") + "2k_saturn_ring.9d424aba.png" + "?" + Date.now();
 
-},{"851b379089488503":"hnJjX"}],"3KRZw":[function(require,module,exports) {
-module.exports = require("f587d332c2b29969").getBundleURL("2MSMO") + "Star.7e083d1a.jpg" + "?" + Date.now();
-
-},{"f587d332c2b29969":"hnJjX"}]},["6Hwvo","dV6cC"], "dV6cC", "parcelRequire94c2")
+},{"851b379089488503":"hnJjX"}]},["6Hwvo","dV6cC"], "dV6cC", "parcelRequire94c2")
 
 //# sourceMappingURL=index.e82f28a0.js.map
